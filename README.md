@@ -1,4 +1,4 @@
-# Bonus 4: Distinct Pair Sum
+## Bonus 4: Distinct Pair Sum
 
 **Fork and then clone me!**
 
